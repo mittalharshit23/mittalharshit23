@@ -35,6 +35,9 @@
 - 🔹 [Restaurant Management System](https://github.com/mittalharshit23/Restaurant-SQL-Project)  
   *SQL schema & queries to handle orders, billing, and customer management.*  
 
+- 🔹 [Red Bull Campus Activation Case Study](https://github.com/mittalharshit23/RedBull-CaseStudy)  
+  *Comprehensive campus activation strategy with event design, society collaborations, marketing, and KPIs.*
+
 
 ---
 ## 🌐 Connect With Me
