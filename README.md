@@ -11,8 +11,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: SQL (MySQL, PostgreSQL, Oracle), Python  
-- **Tools**: MySQL Workbench, pgAdmin, SSMS  
+- **Languages**: SQL, Python, C, C++, HTML, CSS  
+- **Tools**: MySQL Workbench, pgAdmin, SSMS , VS code 
 - **Concepts**: Normalization, Joins, Indexing, Query Optimization  
 
 ---
@@ -30,5 +30,5 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalharshit23e&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalharshit23&layout=compact&theme=radical)  
