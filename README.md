@@ -35,8 +35,6 @@
 - 🔹 [Restaurant Management System](https://github.com/mittalharshit23/Restaurant-SQL-Project)  
   *SQL schema & queries to handle orders, billing, and customer management.*  
 
-- 🔹 [E-Commerce Database](https://github.com/mittalharshit23/Ecommerce-SQL-Project)
-  *Modeled product, customer, and order flows with SQL joins & aggregate queries.*  
 
 ---
 ## 🌐 Connect With Me
