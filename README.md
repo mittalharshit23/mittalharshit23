@@ -1,4 +1,6 @@
-# Hi 👋, I'm Harshit Mittal  
+<h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
+
+
 
 🚀 **Aspiring Database & Backend Developer | Data Enthusiast**  
 
@@ -15,7 +17,6 @@
 - **Tools**: MySQL Workbench, pgAdmin, SSMS , VS code 
 - **Concepts**: Normalization, Joins, Indexing, Query Optimization  
 
- ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
